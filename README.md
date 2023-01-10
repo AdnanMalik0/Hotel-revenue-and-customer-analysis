@@ -3,7 +3,7 @@
 The following work was done in order to understand - through in-depth analysis of Hotel's revenue data - their performance, strength and weaknesses. And based on the analysis and understanding, a PowerBI dashboard was built which can help in devising future plans and best practices for the Hotels. 
 
 ## Data
-The data taken for this reporting is contains Hotel's revenue information starting from August-2018 to August-2020.
+The data taken for this reporting is contains Hotel's revenue information starting from January-2018 to September-2020.
 
 The data was taken from kaggle link: https://www.kaggle.com/datasets/ferranindata/hotel-revenue-data-project
 
@@ -13,7 +13,9 @@ The data was taken from kaggle link: https://www.kaggle.com/datasets/ferranindat
 
   Gives an idea of how much the Hotel have earned, considering the Discounts given to the customers from different market-segments.
 
-2. **Year-wise revenue? (Requries Change)**
+2. **Year-wise revenue?**
+
+This gives a year-wise comparison of revenue. Please note: There is no data after September 2020 which may be because of the COVID'19 pandemic regulations imposed on the country in which the Hotels are. Nevertheless, all of the data is compared to see how the Hotels have performed in these three years.
 
 3. **Month-wise revenue?**
 
@@ -56,7 +58,11 @@ The data was taken from kaggle link: https://www.kaggle.com/datasets/ferranindat
 
 ## The PowerBI Dashboard:
 
-The following Dashboard was created:
-![alt text](https://github.com/AdnanMalik0/Hotel-revenue-and-customer-analysis/blob/main/Dashboard.png?raw=true)
+Many calculations were done using DAX commands in order to get the desired columns and measures. Finally, the dashboard answering the questions of the previous section was built.
 
 The dashboard is fully interactive and any desired information can be extracted by using the filters provided. To access the dashboard download and view the PowerBI template file (Hotel revenue analysis.pbit).
+
+A view of the Dashboard can be seen below:
+![alt text](https://github.com/AdnanMalik0/Hotel-revenue-and-customer-analysis/blob/main/Dashboard.png?raw=true)
+
+
