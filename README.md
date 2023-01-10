@@ -9,26 +9,28 @@ The data was taken from kaggle link: https://www.kaggle.com/datasets/ferranindat
 
 ## Areas explored (_Questions tried to answer_)
 
-* Overall revenue?
+1. Overall revenue?
 Gives an idea of how much the Hotel have earned, considering the Discounts given to the customers from different market-segments.
 
-* Year-wise revenue? (Requries Change)
+2. Year-wise revenue? (Requries Change)
 
-* Month-wise revenue?
+3. Month-wise revenue?
 Gives an idea of which months have earned more revenue than the rest. Helpful in prioritising Hotel's performance which can help in gaining more revenue in those months.
 
-* Overall guests that arrived in the Hotels?
+4. Overall guests that arrived in the Hotels?
 Gives an idea about how many guests usually stay in the hotel.
 
-* Average daily guests by month?
+5. Average daily guests by month?
 Gives an idea about how many guests one can expect every day for a given month.
 
-* Overall reservations?
+6. Overall reservations?
 
-* Overall cancellations made on the reservations?
+7. Overall cancellations made on the reservations?
+
 Gives a vital information about the portion of reservations which are generally successful and those which gets cancelled.
 
-* Revenue by Market-segments?
+8. Revenue by Market-segments?
+
 Customer's arrive from different Market-segments. And its a good idea to know which segment contributes more the Hotel's revenue. the common market-segments include the following: 
 1. Complementary
 2. Corporate
@@ -38,12 +40,14 @@ Customer's arrive from different Market-segments. And its a good idea to know wh
 6. Online TA
 7. Undefined
 
-* Exploring discounts given to Market-segments.
+9. Exploring discounts given to Market-segments.
+
 Each Market-segment is entitled to a discount on their reservation except those which are "Undefined". To understand how much overall discount is being given to each segment - for the given time span - and compare it with the revenue earned from these segments allows us to differentiate the more profiting market-segment to the least for the Hotel.
 
-* Revenue from Meals provided, based on the type of meals offered by the hotel.
+10. Revenue from Meals provided, based on the type of meals offered by the hotel.
 
-* Customer's Nationalities. Knowing from where majority customers belong to.
+11. Customer's Nationalities. Knowing from where majority customers belong to.
+
 Analysing the most common nationality among the Guests will help us in building profiting strategies which may help us to accomodate different cultures, make them feel comfortable, thus allowing the customers to stick with the Hotels for long. 
 
 ## The PowerBI Dashboard:
