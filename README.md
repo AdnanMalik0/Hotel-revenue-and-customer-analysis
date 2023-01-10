@@ -36,13 +36,13 @@ The data was taken from kaggle link: https://www.kaggle.com/datasets/ferranindat
 8. Revenue by Market-segments?
 
   Customer's arrive from different Market-segments. And its a good idea to know which segment contributes more the Hotel's revenue. the common market-segments include the following: 
-  1. Complementary
-  2. Corporate
-  3. Direct
-  4. Groups
-  5. Offline TA/TO
-  6. Online TA
-  7. Undefined
+* Complementary
+* Corporate
+* Direct
+* Groups
+* Offline TA/TO
+* Online TA
+* Undefined
 
 9. Exploring discounts given to Market-segments.
 
