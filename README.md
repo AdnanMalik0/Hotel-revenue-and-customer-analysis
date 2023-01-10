@@ -9,7 +9,7 @@ The data was taken from kaggle link: https://www.kaggle.com/datasets/ferranindat
 
 ## Areas explored (_Questions tried to answer_)
 
-1. Overall revenue?
+1. *Overall revenue?*
 
   Gives an idea of how much the Hotel have earned, considering the Discounts given to the customers from different market-segments.
 
