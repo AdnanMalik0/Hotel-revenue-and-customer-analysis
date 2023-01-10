@@ -2,12 +2,12 @@
 
 The following work was done in order to understand - through in-depth analysis of Hotel's revenue data - their performance, strength and weaknesses. And based on the analysis and understanding, a PowerBI dashboard was built which can help in devising future plans and best practices for the Hotels. 
 
-## Data
+# Data
 The data taken for this reporting is contains Hotel's revenue information starting from January-2018 to September-2020.
 
 The data was taken from kaggle link: https://www.kaggle.com/datasets/ferranindata/hotel-revenue-data-project
 
-## Areas explored (_Questions tried to answer_)
+# Areas explored (_Questions tried to answer_)
 
 1. **Overall revenue?**
 
@@ -56,7 +56,7 @@ This gives a year-wise comparison of revenue. Please note: There is no data afte
 
   Analysing the most common nationality among the Guests will help us in building profiting strategies which may help us to accomodate different cultures, make them feel comfortable, thus allowing the customers to stick with the Hotels for long. 
 
-## The PowerBI Dashboard:
+# The PowerBI Dashboard:
 
 Many calculations were done using DAX commands in order to get the desired columns and measures. Finally, the dashboard answering the questions of the previous section was built.
 
